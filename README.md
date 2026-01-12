@@ -12,9 +12,6 @@ Access records, view marks, and communicate effortlessly.
   <a href="https://youtu.be/ol650KwQkgY?si=rKcboqSv3n-e4UbC">Youtube Video</a>
 </p>
 
-<p>
-  <a href="https://www.linkedin.com/in/yogndrr/">LinkedIn</a>
-</p>
 
 
 # About
