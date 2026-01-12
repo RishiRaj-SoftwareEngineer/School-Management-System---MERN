@@ -9,7 +9,7 @@ Access records, view marks, and communicate effortlessly.
 </h3>
 
 <p>
-  <a href="https://youtu.be/ol650KwQkgY?si=rKcboqSv3n-e4UbC">Youtube Video</a>
+  <a href="https://youtu.be/fxqRGxN-4vA">Youtube Video</a>
 </p>
 
 
